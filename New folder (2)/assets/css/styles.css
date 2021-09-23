@@ -1,0 +1,200 @@
+*{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.img-logo img{
+    width: 120px;
+    height: 20px;
+}
+#nav-background-color{
+    background-color: black;
+}
+.nav-color ul li a{
+color: white !important;
+}
+#intro{
+    background-image: url(/assets/images/header-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button-hover a:hover{
+    color: red!important
+}
+#intro .title{
+    text-align: center;
+    color: whitesmoke;
+}
+.title h1{
+    font-weight: bold;
+}
+#main .title{
+    text-align: center;
+}
+#main .title i{
+    color: gray;
+}
+#team .row .title img{
+    width: 200px;
+    height: 200px;
+}
+.card-text .icon i{
+    font-size: 40px;
+}
+.card-text {
+    padding-top: 30px;
+    text-align: center;
+}
+.card-text .icon{
+    width: 100px;
+    height: 100px;
+    background-color: greenyellow;
+    border-radius: 100%;
+    margin-left: 150px;
+    position: relative;
+}
+.absolute{
+    position: absolute;
+    top: 30px;
+    left: 25px;
+    color: whitesmoke;
+}
+.container{
+    text-align: center;
+}
+#images .container{
+    margin-top: 80px;
+}
+#images .container h3{
+    margin-top: 20px;
+}
+.measure{
+    max-width: 100%;
+    height: auto;
+    box-shadow: silver;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    margin: 20px;
+}
+#about .text{
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 500px;
+}
+
+
+
+
+#team .text{
+    margin-bottom: 50px;
+}
+#team .team-picture-radius{
+    border-radius: 100%;
+    width: 300px;
+}
+.social-media-icon{
+    background-color: black;
+    font-size: 20px;
+    margin-inline-end: 5%;
+    border-radius: 100%;
+    padding-top: 10px;
+    color: whitesmoke;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    margin-left: 10px;
+    position: relative;
+}
+.fb{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 100px;
+    width: 120px;
+    height: 30px;
+}
+.ibm{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 100px;
+    width: 90px;
+    height: 30px;
+}
+.microsoft{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 100px;
+    width: 140px;
+    height: 30px;
+}
+.google{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 100px;
+    width: 90px;
+    height: 30px;
+}
+.logo-last{
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+#contact h2{
+    font-size: 50px;
+    color: whitesmoke;
+}
+.input{
+    padding-top: 50px;
+}
+.text input{
+    width: 500px;
+    padding: 5px;
+    border-radius: 5px;
+}
+.number input{
+    width: 500px;
+    margin-top: 20px;
+    padding: 5px;
+    border-radius: 5px;
+}
+.email input{
+    width: 500px;
+    margin-top: 20px;
+    padding: 5px;
+    border-radius: 5px;
+}
+#contact{
+    background-image: url(/assets/images/map-image.png);
+    background-color: black;
+    height: 650px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#contact .input .button-success{
+    margin-top: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+#footer .container{
+    margin-top: 70px;
+    height: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
